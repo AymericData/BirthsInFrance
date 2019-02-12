@@ -1,0 +1,12 @@
+name: EvoNaissanceFr
+title: EvoNaissanceFr
+username:
+account: aymericdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 709015
+bundleId: 1870476
+url: https://aymericdata.shinyapps.io/EvoNaissanceFr/
+when: 1549935518.79343
+asMultiple: FALSE
+asStatic: FALSE
